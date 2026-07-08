@@ -12,7 +12,7 @@ Before connecting GitHub, I updated my portfolio manually:
 4. Went to AWS Amplify and clicked deploy changes. Waited for AWS Amplify to redeploy the site.
   
 
-### Current workflow
+### Currently...
 
 Now my portfolio uses Git and GitHub with AWS Amplify:
 
@@ -23,14 +23,20 @@ Now my portfolio uses Git and GitHub with AWS Amplify:
 Stage the changes
 ```bash
 git add .
-
+```
 Commit the changes
 ```bash
-git commit -m "Describe the update"
-
+git commit -m "Describe the update or what you changed"
+```
 Push the changes to GitHub
 ```bash
 git push
-
+```
+To check the now updated version 
 ```bash
 git status
+```
+P.s.: to undo a commit run
+```bash
+git reset --soft HEAD~1
+```
