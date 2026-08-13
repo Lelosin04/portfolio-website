@@ -19,6 +19,10 @@ Now my portfolio uses Git and GitHub with AWS Amplify:
 1. Make changes to my website files in VS Code.
 2. Save the files.
 3. Check the changes:
+Pull the latest version of the website 
+```bash
+git pull origin main .
+```
 
 Stage the changes
 ```bash
