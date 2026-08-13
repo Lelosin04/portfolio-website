@@ -21,7 +21,7 @@ Now my portfolio uses Git and GitHub with AWS Amplify:
 3. Check the changes:
 Pull the latest version of the website 
 ```bash
-git pull origin main .
+git pull origin main 
 ```
 
 Stage the changes
