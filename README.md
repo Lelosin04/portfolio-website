@@ -26,7 +26,7 @@ git pull origin main
 
 Stage the changes
 ```bash
-git add .
+git add 
 ```
 Commit the changes
 ```bash
