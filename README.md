@@ -1,7 +1,7 @@
 ﻿
 # portfolio-website
 ## How I Update My Portfolio Website
-
+portfolio website:https://main.d2vzcd2cz2ta58.amplifyapp.com/ 
 ### Previously...
 
 Before connecting GitHub, I updated my portfolio manually:
